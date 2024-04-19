@@ -1,0 +1,45 @@
+body {
+    background-color: blue;
+}
+
+.aquamarine {
+    background-color: aquamarine;
+    font-weight: bold;
+    font-size: 1.15rem;
+}
+
+.goldenrod {
+    background-color: goldenrod;
+    font-weight: bold;
+    font-size: 1.15rem;
+
+}
+
+.palevioletred {
+    background-color: palevioletred;
+    color: white;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.whitesmoke {
+    background-color: whitesmoke;
+}
+
+h1 {
+    text-align: center;
+    font-size: 6vw;
+    padding: 2rem 0;
+}
+
+#element-list li {
+    list-style-type: none;
+    margin: 1rem;
+    width: 120px;
+    height: 120px;
+    text-align: center;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
